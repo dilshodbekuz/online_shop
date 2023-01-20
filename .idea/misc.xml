@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/OnlineBook/app/src/main/res/drawable/background.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/OnlineBook/app/src/main/res/drawable/bc.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/OnlineBook/app/src/main/res/drawable/ic_baseline_favorite_border_24.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/OnlineBook/app/src/main/res/drawable/ic_baseline_group_24.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/OnlineBook/app/src/main/res/drawable/ic_baseline_notifications_24.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/OnlineBook/app/src/main/res/drawable/ic_launcher_background.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/OnlineBook/app/src/main/res/drawable/item.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/OnlineBook/app/src/main/res/drawable/orders_ongoing.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/OnlineBook/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/OnlineBook/app/src/main/res/layout/background.xml" value="0.1921875" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/OnlineBook/app/src/main/res/layout/fragment_cart.xml" value="0.16" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/OnlineBook/app/src/main/res/layout/fragment_completed.xml" value="0.1921875" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/OnlineBook/app/src/main/res/layout/fragment_home.xml" value="0.18" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/OnlineBook/app/src/main/res/layout/fragment_ongoing.xml" value="0.18923076923076923" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/OnlineBook/app/src/main/res/layout/fragment_order1.xml" value="0.1921875" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/OnlineBook/app/src/main/res/layout/fragment_order2.xml" value="0.1921875" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/OnlineBook/app/src/main/res/layout/fragment_orders.xml" value="0.1921875" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/OnlineBook/app/src/main/res/layout/fragment_profile.xml" value="0.1" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/OnlineBook/app/src/main/res/layout/fragment_wallet.xml" value="0.1921875" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/OnlineBook/app/src/main/res/layout/item_cart.xml" value="0.25" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/OnlineBook/app/src/main/res/layout/rv_home_vertical.xml" value="0.25" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/OnlineBook/app/src/main/res/menu/bottom_menu.xml" value="0.1921875" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Online_Shop_technology/app/src/main/res/drawable-v24/m_back.xml" value="0.1175" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Online_Shop_technology/app/src/main/res/drawable/bc.xml" value="0.1175" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Online_Shop_technology/app/src/main/res/drawable/ic_baseline_favorite_border_24.xml" value="0.1465" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Online_Shop_technology/app/src/main/res/drawable/ic_baseline_keyboard_backspace_24.xml" value="0.1175" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Online_Shop_technology/app/src/main/res/drawable/ic_baseline_notifications_none_24.xml" value="0.1175" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Online_Shop_technology/app/src/main/res/drawable/s.xml" value="0.1175" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Online_Shop_technology/app/src/main/res/drawable/s_back.xml" value="0.1175" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Online_Shop_technology/app/src/main/res/layout/activity_carta.xml" value="0.1921875" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Online_Shop_technology/app/src/main/res/layout/activity_favorite_datails.xml" value="0.1921875" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Online_Shop_technology/app/src/main/res/layout/activity_main.xml" value="0.1921875" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Online_Shop_technology/app/src/main/res/layout/activity_maps.xml" value="0.18055555555555555" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Online_Shop_technology/app/src/main/res/layout/activity_product_details.xml" value="0.18" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Online_Shop_technology/app/src/main/res/layout/background.xml" value="0.1921875" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Online_Shop_technology/app/src/main/res/layout/fragment_bags.xml" value="0.1921875" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Online_Shop_technology/app/src/main/res/layout/fragment_cart.xml" value="0.1921875" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Online_Shop_technology/app/src/main/res/layout/fragment_clothes.xml" value="0.1921875" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Online_Shop_technology/app/src/main/res/layout/fragment_completed.xml" value="0.1921875" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Online_Shop_technology/app/src/main/res/layout/fragment_electronic.xml" value="0.1921875" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Online_Shop_technology/app/src/main/res/layout/fragment_favorite.xml" value="0.1921875" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Online_Shop_technology/app/src/main/res/layout/fragment_home.xml" value="0.1921875" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Online_Shop_technology/app/src/main/res/layout/fragment_jewelry.xml" value="0.1921875" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Online_Shop_technology/app/src/main/res/layout/fragment_kitchen.xml" value="0.1921875" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Online_Shop_technology/app/src/main/res/layout/fragment_note.xml" value="0.1921875" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Online_Shop_technology/app/src/main/res/layout/fragment_ongoing.xml" value="0.1921875" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Online_Shop_technology/app/src/main/res/layout/fragment_orders.xml" value="0.2" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Online_Shop_technology/app/src/main/res/layout/fragment_profile.xml" value="0.22" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Online_Shop_technology/app/src/main/res/layout/fragment_shoes.xml" value="0.17" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Online_Shop_technology/app/src/main/res/layout/fragment_toys.xml" value="0.1921875" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Online_Shop_technology/app/src/main/res/layout/fragment_wallet.xml" value="0.1921875" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Online_Shop_technology/app/src/main/res/layout/fragment_watch.xml" value="0.1921875" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Online_Shop_technology/app/src/main/res/layout/item_bags.xml" value="0.1921875" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Online_Shop_technology/app/src/main/res/layout/item_cart.xml" value="0.1921875" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Online_Shop_technology/app/src/main/res/layout/item_clothes.xml" value="0.19114583333333332" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Online_Shop_technology/app/src/main/res/layout/item_electonical.xml" value="0.1921875" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Online_Shop_technology/app/src/main/res/layout/item_favorite.xml" value="0.1921875" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Online_Shop_technology/app/src/main/res/layout/item_jewelry.xml" value="0.1921875" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Online_Shop_technology/app/src/main/res/layout/item_kitchen.xml" value="0.1921875" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Online_Shop_technology/app/src/main/res/layout/item_shoes.xml" value="0.1921875" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Online_Shop_technology/app/src/main/res/layout/item_toys.xml" value="0.1921875" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Online_Shop_technology/app/src/main/res/layout/item_watch.xml" value="0.1921875" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Online_Shop_technology/app/src/main/res/layout/rv_home_vertical.xml" value="0.1921875" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Online_Shop_technology/app/src/main/res/menu/bottom_menu.xml" value="0.1921875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

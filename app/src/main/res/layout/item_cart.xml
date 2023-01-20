@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="15dp">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/img_cart_image"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:backgroundTint="#FFFFFF"
+        app:cardCornerRadius="20dp">
+
+        <ImageView
+            android:id="@+id/iv_girl"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:padding="6dp"
+            android:src="@drawable/girls" />
+    </androidx.cardview.widget.CardView>
+
+    <TextView
+        android:id="@+id/tv_werallo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:maxLines="2"
+        android:ellipsize="end"
+        android:layout_marginTop="15dp"
+        android:layout_toRightOf="@+id/img_cart_image"
+        android:text="Werolla Cardigans"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:layout_width="36sp"
+        android:layout_height="36sp"
+        android:layout_alignParentRight="true"
+        android:layout_marginStart="64dp"
+        android:layout_marginTop="15dp"
+        android:layout_toEndOf="@+id/tv_werallo"
+        android:src="@drawable/trashs" />
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cart_circle"
+        android:layout_width="24sp"
+        android:layout_height="24sp"
+        android:layout_below="@id/tv_werallo"
+        android:layout_toRightOf="@+id/img_cart_image"
+        android:backgroundTint="#7A7777"
+        app:cardCornerRadius="30sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tv_werallo"
+        android:layout_marginLeft="15dp"
+        android:layout_toRightOf="@id/cart_circle"
+        android:text="Color  |  Size = M" />
+
+    <TextView
+        android:id="@+id/tv_385"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/img_cart_image"
+        android:layout_toRightOf="@id/img_cart_image"
+        android:text="$385.00"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/carttt"
+        android:layout_width="70dp"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/img_cart_image"
+        android:layout_alignParentRight="true"
+        android:layout_marginEnd="20dp"
+        android:backgroundTint="#BAB7B7"
+        app:cardCornerRadius="30dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="-    1    +"
+            android:textColor="@color/black" />
+    </androidx.cardview.widget.CardView>
+
+
+</RelativeLayout>
